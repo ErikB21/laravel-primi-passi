@@ -1,0 +1,15 @@
+p{
+    padding: 20px 0;
+    font-size: 1.3rem;
+    color: darkgray;
+}
+ul{
+    list-style: none;
+    display: flex;
+    li .icon {
+        text-decoration: none;
+        padding: 0 10px;
+        color: black;
+        font-size: 2rem;
+    }
+}

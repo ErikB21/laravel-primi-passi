@@ -1,0 +1,23 @@
+header{
+    height: 80px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: black;
+    ul{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding: 10px 0;
+        list-style: none;
+        li{
+            padding: 0 20px;
+            .icon-header{
+                text-decoration: none;
+                color: lightgray!important;
+            }
+        }
+    }
+}
+
